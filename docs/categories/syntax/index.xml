@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Syntax on My blog</title>
-    <link>http://localhost:1313/categories/syntax/</link>
+    <link>https://yanchengom.github.io/categories/syntax/</link>
     <description>Recent content in Syntax on My blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/syntax/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://yanchengom.github.io/categories/syntax/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Markdown Syntax Guide</title>
-      <link>http://localhost:1313/post/markdown-syntax/</link>
+      <link>https://yanchengom.github.io/post/markdown-syntax/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/post/markdown-syntax/</guid>
+      <guid>https://yanchengom.github.io/post/markdown-syntax/</guid>
       
         <description>Sample article showcasing basic Markdown syntax and formatting for HTML elements.</description>
       
