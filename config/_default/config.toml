@@ -1,7 +1,7 @@
 baseURL = "https://yanchengom.github.io"
 languageCode = "en"
 DefaultContentLanguage = "en"
-title = "Website of Jane Doe"
+title = "Yan Cheng"
 
 # theme as hugo module
 #theme = "github.com/lxndrblz/anatole"

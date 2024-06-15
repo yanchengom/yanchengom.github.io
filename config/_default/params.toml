@@ -1,8 +1,8 @@
 
-title = "I'm Jane Doe"
-author = "Jane Doe"
+title = "I'm Yan Cheng"
+author = "Yan Cheng"
 #copyright = "2020-2021"
-description = "Call me Jane"
+description = "Welcome to my personal profile"
 profilePicture = "images/profile.jpg"
 keywords = ""
 favicon = "favicons/"
@@ -10,7 +10,7 @@ favicon = "favicons/"
 customCss = []
 # example ["js/custom.js"]
 customJs = [] 
-mainSections = ["post"]
+mainSections = [""]
 images = ["images/site-feature-image.png"]
 doNotLoadAnimations = false
 # Form Spree Contact Form
@@ -51,7 +51,7 @@ reversepagetitle = true # When set to 'true', the Window Title will be reversed 
 
 ## Math settings
 [math]
-enable = false  # options: true, false. Enable math support globally, default: false. You can always enable math on per page.
+enable = true  # options: true, false. Enable math support globally, default: false. You can always enable math on per page.
 use = "katex"  # options: "katex", "mathjax". default is "katex".
 
 ## Social links
