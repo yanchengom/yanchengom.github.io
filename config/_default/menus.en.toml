@@ -4,42 +4,48 @@
   weight = 100
   url = "/"
 
-  # [[main]]
-  # name = "Posts"
-  # weight = 200
-  # identifier = "posts"
-  # url = "/post/"
+  [[main]]
+  name = "About"
+  weight = 200
+  identifier = "about"
+  url = "/about/"
 
   [[main]]
-  name = "Portfolio"
+  name = "Research Interests"
+  weight = 200
+  identifier = "research"
+  url = "/research-interests/"
+
+  [[main]]
+  name = "Projects"
   weight = 300
   identifier = "portfolio"
   url = "/portfolio/"
 
   [[main]]
-  name = "About"
+  name = "Publications"
   weight = 400
-  identifier = "about"
-  url = "/about/"
+  identifier = "publications"
+  url = "/publications/"
 
-  [[main]]
-  name = "Accomplishments"
-  weight = 500
-  identifier = "accomplishments"
+  # [[main]]
+  # name = "Accomplishments"
+  # weight = 500
+  # identifier = "accomplishments"
 
-  [[main]]
-  name = "Awards"
-  weight = 510
-  identifier = "awards"
-  url = "/awards/"
-  parent = "accomplishments"  
+  # [[main]]
+  # name = "Awards"
+  # weight = 510
+  # identifier = "awards"
+  # url = "/awards/"
+  # parent = "accomplishments"  
 
-  [[main]]
-  name = "Certifications"
-  weight = 520
-  identifier = "certifications"
-  url = "/certifications/"
-  parent = "accomplishments"
+  # [[main]]
+  # name = "Certifications"
+  # weight = 520
+  # identifier = "certifications"
+  # url = "/certifications/"
+  # parent = "accomplishments"
 
   [[main]]
   name = "Contact"
