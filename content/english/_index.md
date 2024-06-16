@@ -48,4 +48,4 @@ Yan's current research primarily examines various facets of online platforms, in
 
 ## CV
 
-You can find my CV [here](/cv/CV___Yan_CHENG.pdf).
+You can find my CV [here](/cv/cv.pdf).
