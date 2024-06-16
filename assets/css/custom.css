@@ -11,7 +11,7 @@ hr {
 
 header.header {
     position: absolute;
-    width: -webkit-fill-available;
+    width: inherit;
 }
 
 div.post {
