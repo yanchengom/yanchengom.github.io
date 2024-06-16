@@ -1,12 +1,7 @@
-  [[main]]
-  name = "Home"
-  identifier = "home"
-  weight = 100
-  url = "/"
 
   [[main]]
   name = "About"
-  weight = 200
+  weight = 100
   identifier = "about"
   url = "#about"
 
@@ -17,7 +12,7 @@
   url = "#research"
 
   [[main]]
-  name = "Conference Presence"
+  name = "Conference Presentation"
   weight = 300
   identifier = "conference"
   url = "#conference-presence"
@@ -47,15 +42,15 @@
   # url = "/certifications/"
   # parent = "accomplishments"
 
-  [[main]]
-  name = "Contact"
-  weight = 600
-  identifier = "contact"
-  url = "#contact"
+   # [[main]]
+   # name = "Contact"
+   # weight = 600
+   # identifier = "contact"
+   # url = "#contact"
 
   [[main]]
   name = "CV"
-  weight = 700
+  weight = 400
   identifier = "cv"
   url = "/cv/cv.pdf"
 
