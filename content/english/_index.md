@@ -37,6 +37,6 @@ Yan's current research primarily examines various facets of online platforms, in
 <!-- # Contact -->
 
 
-## CV
+# CV
 
 You can find my CV [here](/cv/CV___Yan_CHENG.pdf).
