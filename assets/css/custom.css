@@ -5,6 +5,10 @@ hr {
     background-color: #eee;
 }
 
+.theme--dark hr {
+    background-color: #464646;
+}
+
 header.header {
     position: absolute;
     width: -webkit-fill-available;
@@ -12,4 +16,8 @@ header.header {
 
 div.post {
     margin-top: 100px;
+}
+
+.post__content {
+    text-align: justify;
 }
