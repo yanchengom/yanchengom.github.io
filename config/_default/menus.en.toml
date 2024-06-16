@@ -15,7 +15,7 @@
   name = "Conference Presentation"
   weight = 300
   identifier = "conference"
-  url = "#conference-presence"
+  url = "#conference-presentation"
 
   # [[main]]
   # name = "Publications"
@@ -52,7 +52,7 @@
   name = "CV"
   weight = 400
   identifier = "cv"
-  url = "/cv/cv.pdf"
+  url = "/cv/CV___Yan_CHENG.pdf"
 
   [[footer]]
   name = "imprint"
