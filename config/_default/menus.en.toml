@@ -52,7 +52,7 @@
   name = "CV"
   weight = 400
   identifier = "cv"
-  url = "/cv/CV___Yan_CHENG.pdf"
+  url = "/cv/cv.pdf"
 
   [[footer]]
   name = "imprint"
