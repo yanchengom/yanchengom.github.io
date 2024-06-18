@@ -1,7 +1,7 @@
 hr {
     border: 0;
     height: .5px;
-    margin: 36px 0;
+    margin: 24px 0;
     background-color: #eee;
 }
 
@@ -15,9 +15,14 @@ header.header {
 }
 
 div.post {
-    margin-top: 100px;
+    margin-top: 80px;
 }
 
 .post__content {
     text-align: justify;
+}
+
+.post__content h2 {
+    padding-top: 20px;
+    margin-block-start: 0;
 }
