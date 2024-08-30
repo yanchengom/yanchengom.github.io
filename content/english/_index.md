@@ -6,7 +6,7 @@ author = "Hugo Authors"
 
 ## About
 
-Yan Cheng joined the College of Business at Shanghai University of Finance and Economics (SUFE) in 2024 as an Assistant Professor. Prior to joining SUFE, she received her Ph.D. degree in Management Science and Engineering from Tsinghua University. Yan holds a M.E.M. degree from Duke University, a B.A. degree in communication and a B.S. degree in Economics from Tsinghua University. 
+Yan Cheng joined the College of Business at Shanghai University of Finance and Economics (SUFE) in 2024 as an Assistant Professor. Prior to joining SUFE, she received her Ph.D. degree in Management Science and Engineering from Tsinghua University. Yan holds a M.E.M. degree from Duke University, a B.A. degree in Communication and a B.S. degree in Economics from Tsinghua University. 
 
 Yan's current research primarily examines various facets of online platforms, including a broad range of managerial and marketing topics:
 
