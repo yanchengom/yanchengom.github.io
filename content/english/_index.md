@@ -6,7 +6,7 @@ author = "Hugo Authors"
 
 ## About
 
-Yan Cheng is a Ph.D. candidate in the Industrial Engineering Department, Tsinghua University. She received her M.E.M. degree from Duke University, Nicholas School of Environment. Before her time at Duke, Yan held a B.A. degree in communication and a B.S. degree in Economics from Tsinghua University. In September 2024, Yan will join the College of Business at Shanghai University of Finance and Economics.
+Yan Cheng joined the College of Business at Shanghai University of Finance and Economics (SUFE) in 2024 as an Assistant Professor. Prior to joining SUFE, she received her Ph.D. degree in Management Science and Engineering from Tsinghua University. Yan holds a M.E.M. degree from Duke University, a B.A. degree in communication and a B.S. degree in Economics from Tsinghua University. 
 
 Yan's current research primarily examines various facets of online platforms, including a broad range of managerial and marketing topics:
 
