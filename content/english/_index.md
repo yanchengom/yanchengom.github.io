@@ -26,12 +26,12 @@ Yan's current research primarily examines various facets of online platforms, in
 
 ### Papers Under Review
 
-- “[Selecting Creators to Sign on a Content-Sharing Platform: A Deep-DiD Approach](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4622422),” with JingboWang, Xinyu Cao, Zuo-Jun Max Shen, Yuhui Zhang, major revision at Marketing Science.
+- “[Selecting Creators to Sign on a Content-Sharing Platform: A Deep-DiD Approach](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4622422),” with Jingbo Wang, Xinyu Cao, Zuo-Jun Max Shen, Yuhui Zhang, major revision at Marketing Science.
 <!-- - “[How the Platform Enables Creators: An AI Feedback Perspective](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4769961),” with Shaochong Lin, Zhou Zhou, Zuo-Jun Max Shen, in submission to Management Science. -->
 
 ### Working Papers
 
-- “The Heterogeneous Treatment Effect of Bullet Chats: An Instrumental-Variable Approach,” with Xinyu Cao, JingboWang, Zuo-Jun Max Shen.
+- “The Heterogeneous Treatment Effect of Bullet Chats: An Instrumental-Variable Approach,” with Xinyu Cao, Jingbo Wang, Zuo-Jun Max Shen.
 - “How the Platform Enables Creators: An AI Feedback Perspective,” with Shaochong Lin, Zhou Zhou, Zuo-Jun Max Shen.
 
 ---
