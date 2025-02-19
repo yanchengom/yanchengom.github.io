@@ -12,10 +12,10 @@
   url = "#research"
 
   [[main]]
-  name = "Conference Presentation"
+  name = "Conference Talks"
   weight = 300
   identifier = "conference"
-  url = "#conference-presentation"
+  url = "#conference-talks"
 
   # [[main]]
   # name = "Publications"
