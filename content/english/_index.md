@@ -21,22 +21,23 @@ Yan's current research primarily examines various facets of online platforms, in
 
 ### Journal Articles
 
-- “[From Social to Purchase: Customer Selection in Social Group Buying](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4082229),” with Shaochong Lin, Zuo-Jun Max Shen, accepted at Production and Operations Management.
+- “[From Social to Purchase: Customer Selection in Social Group Buying](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4082229),” with Shaochong Lin, Zuo-Jun Max Shen, forthcoming in Production and Operations Management.
 
 
 ### Papers Under Review
 
-- “[Selecting Creators to Sign on a Content-Sharing Platform: A Deep-DiD Approach](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4622422),” with Jingbo Wang, Xinyu Cao, Zuo-Jun Max Shen, Yuhui Zhang, major revision at Marketing Science.
+- “[Selecting Creators to Sign on a Content-Sharing Platform: A Deep-DiD Approach](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4622422),” with Jingbo Wang, Xinyu Cao, Zuo-Jun Max Shen, Yuhui Zhang, minor revision at Marketing Science.
 <!-- - “[How the Platform Enables Creators: An AI Feedback Perspective](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4769961),” with Shaochong Lin, Zhou Zhou, Zuo-Jun Max Shen, in submission to Management Science. -->
 
 ### Working Papers
 
 - “The Heterogeneous Treatment Effect of Bullet Chats: An Instrumental-Variable Approach,” with Xinyu Cao, Jingbo Wang, Zuo-Jun Max Shen.
-- “How the Platform Enables Creators: An AI Feedback Perspective,” with Shaochong Lin, Zhou Zhou, Zuo-Jun Max Shen.
+- “Boosting Platform Engagement through Diversity: An Algorithmic Feedback Approach,” with Shaochong Lin, Zhou Zhou, Zuo-Jun Max Shen.
+- “Optimizing Influencer Marketing Campaign: A Joint Approach to Influencer Selection and Traffic Promotion,” with Pujun Zhang, Yiqi Sun, Dazhou Lei, Zuo-Jun Max Shen.
 
 ---
 
-## Conference Presentation
+## Conference Talks
 
 “From Social to Purchase: Customer Selection in Social Group Buying”:
 
@@ -46,6 +47,10 @@ Yan's current research primarily examines various facets of online platforms, in
 
 - Marketing and the Creator Economy Conference, Columbia University, 2023
 - 14th POMS-HK International Conference, 2024
+
+“Boosting Platform Engagement through Diversity: An Algorithmic Feedback Approach”:
+
+- 15th POMS-HK International Conference, 2025; Session Chair
 
 <!-- # Contact -->
 
