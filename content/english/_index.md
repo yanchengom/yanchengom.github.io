@@ -21,18 +21,17 @@ Yan's current research primarily examines various facets of online platforms, in
 
 ### Journal Articles
 
+- “[A Deep-DiD Method to Estimate Heterogeneous Treatment Effects: Application to Content Creator Selection](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4622422),” with Jingbo Wang, Xinyu Cao, Zuo-Jun Max Shen, Yuhui Zhang, forthcoming at Marketing Science.
 - “[From Social to Purchase: Customer Selection in Social Group Buying](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4082229),” with Shaochong Lin, Zuo-Jun Max Shen, forthcoming in Production and Operations Management.
 
 
 ### Papers Under Review
 
-- “[Selecting Creators to Sign on a Content-Sharing Platform: A Deep-DiD Approach](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4622422),” with Jingbo Wang, Xinyu Cao, Zuo-Jun Max Shen, Yuhui Zhang, minor revision at Marketing Science.
-<!-- - “[How the Platform Enables Creators: An AI Feedback Perspective](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4769961),” with Shaochong Lin, Zhou Zhou, Zuo-Jun Max Shen, in submission to Management Science. -->
-
+- “[Do Bullet Chats Keep Viewers Watching? Estimating Heterogeneous Treatment Effects with a Control Function Approach](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5456675),” with Xinyu Cao, Jingbo Wang, Zuo-Jun Max Shen, Michael Xiaoquan Zhang.
+- “[Guiding Decentralized Production via AI Feedback: Evidence on Product Design and User Experience](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4769961),” with Shaochong Lin, Zhou Zhou, Zuo-Jun Max Shen.
+- “[When Aggregate Tradeoffs Mask Individual Alignment: Evidence from Follower-Targeted Recommendation](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6312018),” with Yicheng Feng, Zuo-Jun Max Shen.
 ### Working Papers
 
-- “The Heterogeneous Treatment Effect of Bullet Chats: An Instrumental-Variable Approach,” with Xinyu Cao, Jingbo Wang, Zuo-Jun Max Shen.
-- “Boosting Platform Engagement through Diversity: An Algorithmic Feedback Approach,” with Shaochong Lin, Zhou Zhou, Zuo-Jun Max Shen.
 - “Optimizing Influencer Marketing Campaign: A Joint Approach to Influencer Selection and Traffic Promotion,” with Pujun Zhang, Yiqi Sun, Dazhou Lei, Zuo-Jun Max Shen.
 
 ---
